@@ -1,0 +1,28 @@
+.wrap {
+    width: 900px;
+    height: 900px;
+}
+.chess {
+    height: 100px;
+    width: 100px;
+}
+.grey {
+    text-align: center;
+    font-size: 45px;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+.white{
+    background: white;
+    border: solid 1px;
+    box-sizing: border-box
+}
+.black {
+    background: #808080;
+}
+.column{
+    float: left;
+}
+img {
+    height: 100px;
+}
